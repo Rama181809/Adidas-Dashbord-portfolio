@@ -1,6 +1,7 @@
 # Adidas-Dashbord-portfolio
 # 📊 Portfolio Excel - Analyse des ventes Adidas  
-Dashboard : https://github.com/Rama181809/Adidas-Dashbord-portfolio/blob/main/Capture%20d’écran%202025-03-04%20à%2011.37.12.png
+Dashboard :
+https://drive.google.com/file/d/1ONTKQgeAMuS5m3DkSsw8X8G4xRsZ1f70/view?usp=share_link
 https://drive.google.com/file/d/1l_IcGiB2MrYFuP6kPvTDcjo4i3NjojYr/view?usp=share_link
 https://drive.google.com/file/d/1assEc-9kKLwau5TZFkAuOMQvKACqA9SS/view?usp=share_link
 https://drive.google.com/file/d/1ONTKQgeAMuS5m3DkSsw8X8G4xRsZ1f70/view?usp=share_link

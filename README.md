@@ -19,4 +19,4 @@ https://docs.google.com/spreadsheets/d/1EpgXvCZzHSys24xzcpFkXGPrSGedaTR0/edit?us
 - La vente en ligne génère le plus d’unités vendues (939 093).  
 - New York est la ville avec le plus de ventes, tandis qu’Omaha est celle avec le moins.
 ## 🎥 Démo Vidéo  
-📺 [Voir la vidéo du Dashboard]((https://drive.google.com/file/d/1phzpslH1rfy13XSMTRZvaU-YHmV9HIuy/view?usp=share_link))  
+📺 https://drive.google.com/file/d/1phzpslH1rfy13XSMTRZvaU-YHmV9HIuy/view?usp=share_link
